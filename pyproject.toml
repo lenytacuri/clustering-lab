@@ -1,0 +1,6 @@
+[project]
+name = "clustering-lab"
+version = "0.1.0"
+description = "Lab 08: clustering con Online Retail y HAR"
+requires-python = ">=3.12,<3.13"
+dependencies = ["numpy", "pandas", "matplotlib", "seaborn", "scipy", "scikit-learn", "openpyxl", "ipykernel", "jupyterlab", "nbconvert"]
